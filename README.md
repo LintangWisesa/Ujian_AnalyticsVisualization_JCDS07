@@ -177,7 +177,7 @@ MySQL secara default menyertakan database ```sakila``` yang dapat digunakan oleh
 
 ### **Soal 2 - 👨‍🎓 Kerja Kerja Kerja**
 
-Disediakan sebuah dataset yang berisi daftar profesi beberapa responder, unduh: [profesi.csv](./profesi.csv). Buatlah sebuah file python (__.py__) atau notebook (__.ipynb__) yang dapat menyelesaikan perintah berikut.
+Disediakan sebuah dataset yang berisi daftar profesi beberapa responder, unduh: [profesi.csv](https://raw.githubusercontent.com/LintangWisesa/Ujian_AnalyticsVisualization_JCDS07/master/profesi.csv). Buatlah sebuah file python (__.py__) atau notebook (__.ipynb__) yang dapat menyelesaikan perintah berikut.
 
 1. __Ada berapa jenis profesi yang ada dalam dataset tersebut? Sebutkan!__
     
@@ -193,13 +193,13 @@ Disediakan sebuah dataset yang berisi daftar profesi beberapa responder, unduh: 
 
     Output yang diharapkan:
 
-    <img src='./soal2b.png' width='30%' height='30%'>
+    <img src='./soal2b.png' width='40%' height='40%'>
 
 3. __Buatlah sebuah dataframe yang menunjukkan persentase pria & wanita tiap profesi!__
 
     Output yang diharapkan:
 
-    <img src='./soal2c.png' width='30%' height='30%'>
+    <img src='./soal2c.png' width='40%' height='40%'>
 
 ✅ *Commit & push source code jawaban soal ini ke __Github__ Anda, buatlah repo dengan nama __Daftar_Profesi__, kemudian lampirkan __url link repo Github__ Anda via email ke _lintang@purwadhika.com!_*
 
