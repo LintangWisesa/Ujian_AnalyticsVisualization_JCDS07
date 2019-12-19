@@ -189,7 +189,7 @@ Disediakan sebuah dataset yang berisi daftar profesi beberapa responder, unduh: 
     ['technician', 'other', 'writer', 'executive', 'administrator', 'student', 'lawyer', 'educator', 'scientist', 'entertainment', 'programmer', 'librarian', 'homemaker', 'artist', 'engineer', 'marketing', 'none', 'healthcare', 'retired', 'salesman', 'doctor']
     ```
 
-2. __Buatlah sebuah dataframe yang menunjukkan data usia maksimal, minimal & rata-ratanya, berdasarkan profesi & gender!__
+2. __Buatlah sebuah dataframe yang menunjukkan data usia maksimal, minimal & rata-ratanya, kemudian dikelompokkan berdasarkan profesi & gender!__
 
     Output yang diharapkan:
 
